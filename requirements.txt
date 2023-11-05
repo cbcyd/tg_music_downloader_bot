@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Install streamrip from the dev branch on GitHub
+git+https://github.com/nathom/streamrip.git@dev
+
+# Other dependencies
+python-telegram-bot
+sqlalchemy
